@@ -1,1 +1,1 @@
-# Banking-Management-System
+# Bank
